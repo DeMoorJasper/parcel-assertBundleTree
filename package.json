@@ -1,5 +1,5 @@
 {
-  "name": "parcel-assertBundleTree",
+  "name": "parcel-assert-bundle-tree",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT"
